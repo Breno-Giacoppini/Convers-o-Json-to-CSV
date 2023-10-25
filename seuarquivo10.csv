@@ -1,0 +1,11 @@
+Registro,Veiculo,Nome do Cliente,Ano do Carro,Cliente,Tipo de Problema,eixos,peso,altura,comprimento
+Registro 1,Volvo VNL 860,Ana Silva,2020,Sim,Problema no sistema de suspensao,6,12.500 kg,3.90 metros,6.90 metros
+Registro 2,Kenworth W900,Maria Souza,2020,Sim,Problema na transmissao,4,10 toneladas,3 metros,7 metros
+Registro 3,Peterbilt 379,Antonio Silva,2018,Sim,Problema no sistema eletrico,4,12 toneladas,3.2 metros,7.5 metros
+Registro 4,Mack Anthem,Ana Santos,2021,Sim,Problema no sistema de freio,4,11 toneladas,3.1 metros,7.3 metros
+Registro 5,International LoneStar,Luiz Pereira,2019,Sim,Problema no sistema de direcao,2,8 toneladas,2.8 metros,6.5 metros
+Registro 6,Freightliner Cascadia,Eduardo Costa,2020,Sim,Problema no sistema de ar condicionado,2,9 toneladas,2.7 metros,6.2 metros
+Registro 7,Paccar MX-13,Rosa Ferreira,2018,Sim,Problema no sistema de suspensao,2,8.5 toneladas,2.6 metros,6 metros
+Registro 8,MAN TGX,Paulo Lima,2021,Sim,Problema no sistema de transmissao,2,8.2 toneladas,2.5 metros,5.8 metros
+Registro 9,DAF XF,Cristina Alves,2019,Sim,Problema no sistema de escape,2,7.8 toneladas,2.4 metros,5.5 metros
+Registro 10,Komatsu WA900-8,Jose Oliveira,2018,Sim,Problema no sistema hidraulico,2,7.5 toneladas,2.3 metros,5 metros
